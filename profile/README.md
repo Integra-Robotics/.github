@@ -9,7 +9,7 @@ This organization contains our repositories for robotics development, integratio
 For our **AgiBot X2 Ultra** platform, we currently use:
 
 - **AimDK**
-- **Firmware:** v1.0.10
+- **Firmware:** v1.1.5
 - **Grippers:** OmniPicker
 
 ### Robot computers
